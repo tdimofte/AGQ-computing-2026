@@ -16,4 +16,5 @@ I highly recommend installing the relevant libraries before attending the Worksh
 Alternatively, once you open a Jupyter notebook, run
 
 ```using Pkg```
+
 ```Pkg.instantiate()```
